@@ -3,13 +3,14 @@
 Program oferuje takie funkcjonalności jak dodawanie, wyszukiwanie i przeglądanie ogłoszeń czy weryfikacja autentyczności użytkownika z wykorzystaniem jednorazowego pinu wysyłanego przy pomocy wiadomości SMS.
 
 Aplikacja wykorzystuje następujące technologie:
-- Typescript
-- React
-- Node.js
-- Apollo GraphQL
-- GraphQL Nexus
-- Prisma
-- Yup
+- [Typescript](https://www.typescriptlang.org/docs)
+- [React](https://react.dev/learn)
+- [Node.js](https://nodejs.org/docs/latest/api)
+- [Apollo GraphQL](https://www.apollographql.com/docs)
+- [GraphQL Nexus](https://nexusjs.org/docs)
+- [Prisma](https://www.prisma.io/docs)
+- [Formik](https://formik.org/docs/overview)
+- [Yup](https://github.com/jquense/yup.git)
 - HTML
 - CSS
 
