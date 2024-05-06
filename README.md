@@ -13,8 +13,8 @@ Aplikacja wykorzystuje następujące technologie:
 - [Prisma](https://www.prisma.io/docs)
 - [Formik](https://formik.org/docs/overview)
 - [Yup](https://github.com/jquense/yup.git)
-- HTML
-- CSS
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Film demonstracyjny
 
