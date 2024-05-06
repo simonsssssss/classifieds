@@ -15,3 +15,5 @@ Aplikacja wykorzystuje następujące technologie:
 - CSS
 
 Poniżej umieszczono film demonstracyjny. Fragment materiału zawierający wrażliwe dane (numer telefonu) został zamazany. Aplikacja za pierwszym razem prosi o wpisanie numeru telefonu, który zostaje zapamiętany.
+
+https://github.com/simonsssssss/classifieds/assets/48809466/b58e8e3a-46ca-4fab-8086-dd80884e4f6b
